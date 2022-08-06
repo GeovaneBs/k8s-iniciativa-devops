@@ -1,6 +1,6 @@
 # Local .terraform directories
 **/.terraform/*
-k8s-iniciativa-devops/iac/terraform.tfvars
+*.tfvars
 
 # .tfstate files
 *.tfstate
